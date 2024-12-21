@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "5e132b844dd143eaccd820755eabf89d19189a43",
+    "author": "bart-v <bartv@vliz.be>",
+    "time": "2024-10-02 13:13:34",
+    "files": 1,
+    "merge": false,
+    "message": "workflows: another apptemp to fix \"No coverage reports found\""
+  },
+  "repo": "https://github.com/ropensci/mregions2",
+  "pkg": "mregions2"
+}
