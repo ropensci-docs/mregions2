@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "a7c5629bc1b64e9fc55c230745e52ca9d6873ce1",
+    "author": "bart-v <bartv@vliz.be>",
+    "time": "2026-07-02T15:21:58Z",
+    "files": 1,
+    "merge": false,
+    "message": "disabled failing test & update comments to clarify disabled tests"
+  },
+  "repo": "https://github.com/ropensci/mregions2",
+  "pkg": "mregions2",
+  "time": "2026-08-31T07:34:37Z"
+}
