@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "5597f310ec3ba22379a432dba7744c8e8972474a",
+    "author": "arno.pauwels@vliz.be <arno.pauwels@vliz.be@rstudio4.web.vliz.be>",
+    "time": "2026-11-23T11:02:55Z",
+    "files": 1,
+    "merge": false,
+    "message": "Update maintainer\n"
+  },
+  "repo": "https://github.com/ropensci/mregions2",
+  "pkg": "mregions2",
+  "time": "2026-11-23T11:50:58Z"
+}
